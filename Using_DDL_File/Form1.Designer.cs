@@ -63,7 +63,7 @@
             this.label1.Size = new System.Drawing.Size(83, 16);
             this.label1.TabIndex = 2;
             this.label1.Text = "First Number\r\n";
-            this.label1.Click += new System.EventHandler(this.label1_Click);
+            
             // 
             // label2
             // 
@@ -112,7 +112,7 @@
             this.label3.Size = new System.Drawing.Size(45, 16);
             this.label3.TabIndex = 7;
             this.label3.Text = "Result";
-            this.label3.Click += new System.EventHandler(this.label3_Click);
+            
             // 
             // Form1
             // 
